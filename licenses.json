@@ -1,0 +1,13 @@
+{
+  "licencas": {
+    "joao123": {
+      "expiracao": "31-12-2026"
+    },
+    "maria_dev": {
+      "expiracao": "15-05-2026"
+    },
+    "teste_user": {
+      "expiracao": "01-01-2025"
+    }
+  }
+}
